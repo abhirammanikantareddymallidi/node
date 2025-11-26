@@ -16,3 +16,7 @@ Please be respectful and considerate in all interactions.
 ## Questions?
 
 Feel free to open an issue if you have any questions.
+
+## Getting Help
+
+If you need assistance, please reach out to the community.
